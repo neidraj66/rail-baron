@@ -1,0 +1,23 @@
+{
+  "name": "rail-baron",
+  "version": "0.0.1",
+  "main": "main.js",
+  "type": "module",
+  "description": "## About Rail Baron is a board game from the 80s. We're going to make a web version of it to learn how to program.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neidraj66/rail-baron.git"
+  },
+  "author": "Neidra Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neidraj66/rail-baron/issues"
+  },
+  "homepage": "https://github.com/neidraj66/rail-baron#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
